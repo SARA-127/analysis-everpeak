@@ -1,1 +1,1 @@
-# analysis-everpeak
+. En el README incluye: título, objetivo, contexto, datasets, herramientas, metodología, 3–5 hallazgos con cifras, recomendaciones de negocio, instrucciones de ejecución y estructura del repositorio.# analysis-everpeak
